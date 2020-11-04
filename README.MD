@@ -13,3 +13,9 @@ https://docs.microsoft.com/zh-tw/visualstudio/get-started/visual-basic/tutorial-
 
 教學課程：Visual Studio 中的 Visual Basic 使用者入門
 https://docs.microsoft.com/zh-tw/visualstudio/get-started/visual-basic/tutorial-console?view=vs-2019
+
+
+
+
+VB.Net教學 » VB.Net第一個程式（Helloworld）   VS 2017
+http://www.tw511.com/14/127/3739.html
