@@ -8,3 +8,8 @@ https://docs.microsoft.com/zh-tw/visualstudio/get-started/visual-basic/?view=vs-
 
 使用vs開發vb  2
 https://docs.microsoft.com/zh-tw/visualstudio/get-started/visual-basic/tutorial-console?view=vs-2019
+
+
+
+教學課程：Visual Studio 中的 Visual Basic 使用者入門
+https://docs.microsoft.com/zh-tw/visualstudio/get-started/visual-basic/tutorial-console?view=vs-2019
